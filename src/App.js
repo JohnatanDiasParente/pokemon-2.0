@@ -59,7 +59,7 @@ function App() {
             <p className="card-text">atk: {atk}</p>
             <p className="card-text">def: {def}</p>
             <p className="card-text">xp: {experiencia}</p>
-            <p className="card-text">tipo: {tipo}</p>
+            <p className="card-text">type: {tipo}</p>
 
           </div>
           </div>
