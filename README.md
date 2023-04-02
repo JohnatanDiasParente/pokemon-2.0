@@ -4,3 +4,6 @@ Projeto em React.js iniciante para fazer requisições em uma API, Podendo procu
 
 ![image](https://user-images.githubusercontent.com/79208491/229356568-ba9291a6-85af-4e1e-a884-f6b9007f349a.png)
 
+![image](https://user-images.githubusercontent.com/79208491/229356700-b6c76873-8bb3-4de3-8edc-d4d5b3459506.png)
+
+
